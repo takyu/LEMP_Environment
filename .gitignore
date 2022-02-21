@@ -1,0 +1,6 @@
+##
+# When using it, uncomment below and don't push the file
+# with the environment variables to git.
+##
+
+#.env
