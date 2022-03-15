@@ -2,7 +2,7 @@
 
 The PHP Framework for Web Artisans.  
 <https://laravel.com/>  
-Dcocumentation is [here](https://readouble.com/laravel/).
+Documentation is [here](https://readouble.com/laravel/).
 
 ## Environment
 
@@ -77,3 +77,19 @@ Composer version 2.2.6 2022-02-04 17:00:38
 ```
 composer create-project --prefer-dist laravel/laravel .
 ```
+
+## Intervention Image
+
+Intervention Image is an open source PHP image handling and manipulation library.  
+<https://intervention.io/>  
+This library uses the GD library.
+
+## reference link
+
+- php config on docker
+
+	- <https://hub.docker.com/_/php>
+
+- nginx config
+
+	- <https://www.nginx.com/blog/creating-nginx-rewrite-rules/>
